@@ -10,8 +10,8 @@ body {
 }
 
 .container {
-  width: 100%;
-  margin: 0 30px;
-  padding: 0 20px;
-  max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 1120px;
 }
